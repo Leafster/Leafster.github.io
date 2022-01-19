@@ -1,0 +1,75 @@
+
+
+  #title {
+  text-align: center
+  }
+  
+  /* !--colors: #F7D30D #050404 #049B3C */
+
+#contents {
+
+color: #050404;
+
+}
+
+p {
+color: #F7D30D;
+
+line-height:1.5em;
+
+font-family: Helvetica, monospace;
+
+font-weight: bold;
+
+font-style: italic;
+
+}
+
+a {
+
+text-decoration: none;
+
+font-weight: bold;
+
+font-style: italic;
+
+color: #F7D30D;
+}
+
+background {
+
+color: #050404;
+
+}
+
+#sources {
+
+color: #049B3C;
+
+}
+
+#top3 {
+
+color: #049B3C;
+font-size: 20px;
+
+}
+
+.broadcaster {
+
+color: #049B3C;
+
+}
+
+#footer
+{
+	background-color: rgb(232, 232, 232);
+}
+
+#header
+{
+	background-color: red;
+  font-weight: bold;
+font-style: italic;
+color: white;
+}
